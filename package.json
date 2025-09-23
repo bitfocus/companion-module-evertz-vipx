@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "main": "main.js",
   "type": "module",
+  "scripts": {
+    "format": "prettier -w ."
+  },
   "license": "MIT",
   "repository": {
-		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-evertz-vipx.git"
-	},
+    "type": "git",
+    "url": "git+https://github.com/bitfocus/companion-module-evertz-vipx.git"
+  },
   "dependencies": {
     "@companion-module/base": "^1.13.2"
+  },
+  "devDependencies": {
+    "@companion-module/tools": "^2.4.0",
+    "prettier": "^3.6.2"
   }
 }
