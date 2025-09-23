@@ -1,11 +1,13 @@
 {
   "name": "companion-module-evertz-vipx",
   "version": "1.0.0",
-  "description": "Bitfocus Companion module for Evertz VIP-X Multiviewer: list & load snapshots, manage layouts/windows/inputs.",
   "main": "main.js",
   "type": "module",
-  "author": "Caleb",
   "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-evertz-vipx.git"
+	},
   "dependencies": {
     "@companion-module/base": "^1.13.2"
   }
