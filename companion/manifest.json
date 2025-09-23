@@ -3,7 +3,7 @@
 	"name": "evertz-vipx",
 	"shortname": "evertz-vipx",
 	"description": "This module allows control of Evertz VIPX devices. Specifically dealing with Evertz Snapshots in the Multiviewer tab",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-evertz-vipx.git",
 	"bugs": "https://github.com/bitfocus/companion-module-evertz-vipx/issues",
