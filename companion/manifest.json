@@ -1,16 +1,16 @@
 {
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
-	"version": "0.0.0",
+	"id": "evertz-vipx",
+	"name": "evertz-vipx",
+	"shortname": "evertz-vipx",
+	"description": "This module allows control of Evertz VIPX devices. Specifically dealing with Evertz Snapshots in the Multiviewer tab",
+	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-evertz-vipx.git",
+	"bugs": "https://github.com/bitfocus/companion-module-evertz-vipx/issues",
 	"maintainers": [
 		{
-			"name": "Your name",
-			"email": "Your email"
+			"name": "Caleb Furrow",
+			"email": "CalebFurrow@gmail.com"
 		}
 	],
 	"runtime": {
@@ -20,7 +20,7 @@
 		"entrypoint": "../main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
+	"manufacturer": "Evertz",
+	"products": ["Vipx"],
 	"keywords": []
 }
